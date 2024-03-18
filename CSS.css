@@ -1,0 +1,17 @@
+.stopwatch {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.controls button {
+  margin: 5px;
+}
+
+#laps {
+  list-style-type: none;
+  padding: 0;
+}
+
+#laps li {
+  margin: 5px;
+}
